@@ -1,5 +1,5 @@
 # Genetic algorithm for function optimization
-In this work I approximate the global minima of a function $(y-x^2)^2+(1-x)^2 with genetic algorithm. This tool allows you to choose number of iterations, size of the population,
+In this work I approximate the global minima of a function $(y-x^2)^2+(1-x)^2$ with genetic algorithm. This tool allows you to choose number of iterations, size of the population,
 mutation rate and also you can choose between real and binary gene encoding (that has effect on the algorithm's precision). 
 ### Modification
 A little modification is also implemented in this work: as population approaches the optima, mutation rate decays, so the algorithm converges faster.
